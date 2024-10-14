@@ -1,8 +1,11 @@
 <h2 align="left">About Me</h2>
 
-###
+<div align="center">
+  
+<p>WEB3 Developer.</p>
+<img align="center" alt="coding" width="800" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 
-<p align="left">WEB3 Developer.</p>
+</div>
 
 ###
 
@@ -57,3 +60,5 @@
 </div>
 
 ###
+
+![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)
