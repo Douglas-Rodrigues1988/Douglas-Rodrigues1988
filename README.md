@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<p> Fullstack Developer | JavaScript | Python | Blockchain | Rust.</p>
+<p> Blockchain Developer</p>
 <img align="center" alt="coding" width="800" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 
 </div>
